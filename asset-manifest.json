@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/react-for-beginners/static/js/main.44fa702c.js",
-    "static/js/874.27f4885b.chunk.js": "/react-for-beginners/static/js/874.27f4885b.chunk.js",
+    "main.js": "/react-for-beginners/static/js/main.0f302fd8.js",
+    "static/js/874.8b3a94a1.chunk.js": "/react-for-beginners/static/js/874.8b3a94a1.chunk.js",
     "static/js/768.c0876b48.chunk.js": "/react-for-beginners/static/js/768.c0876b48.chunk.js",
     "index.html": "/react-for-beginners/index.html",
-    "main.44fa702c.js.map": "/react-for-beginners/static/js/main.44fa702c.js.map",
-    "874.27f4885b.chunk.js.map": "/react-for-beginners/static/js/874.27f4885b.chunk.js.map",
+    "main.0f302fd8.js.map": "/react-for-beginners/static/js/main.0f302fd8.js.map",
+    "874.8b3a94a1.chunk.js.map": "/react-for-beginners/static/js/874.8b3a94a1.chunk.js.map",
     "768.c0876b48.chunk.js.map": "/react-for-beginners/static/js/768.c0876b48.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.44fa702c.js"
+    "static/js/main.0f302fd8.js"
   ]
 }
